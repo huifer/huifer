@@ -8,22 +8,17 @@ I am **HuiFer**. I am a **Java Developer**,  **Skilled in SpringFramework, Sprin
 - 🌱 I’m currently write spring-framework source code analysis
 - 💬 Ask me about Java Development
 
-![huifer github stats](https://github-readme-stats.vercel.app/api?username=huifer&show_icons=true&hide_border=true)
+<p align="center">
+  <img align="center" src="https://github.com/huifer/huifer/blob/master/developer.gif"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=huifer&MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
+</p>
 
 
-## Repository
 
-<a href="https://github.com/huifer/tianditu-python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=huifer&repo=tianditu-python" />
-</a>
-<a href="https://github.com/huifer/planar_algorithm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=huifer&repo=planar_algorithm" />
-</a>
-
-
-<br/>
 
 ## Contact
 
-	QQ: 1187982580
-	E-mail: huifer97@163.com
+- E-mail: huifer97@163.com
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=huifer&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
