@@ -16,9 +16,6 @@ I am **HuiFer**. I am a **Java Developer**,  **Skilled in SpringFramework, Sprin
 
 
 
-## Contact
-
-- E-mail: huifer97@163.com
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=huifer&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
